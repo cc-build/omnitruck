@@ -11,7 +11,7 @@ gem "rest-client"
 gem 'rake'
 gem 'redis'
 gem 'mixlib-versioning', '~> 1.1.0'
-gem 'mixlib-install'
+gem 'mixlib-install', git: 'https://gitlab.com/cinc-project/mixlib-install.git', branch: 'stable/cinc'
 gem 'trashed'
 
 group :test do
