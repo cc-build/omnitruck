@@ -1,9 +1,9 @@
 GIT
   remote: https://gitlab.com/cinc-project/mixlib-install.git
-  revision: 7f273168421575d35039890fe7dd246f4a67a2e6
+  revision: d0b6b227e31efc0da9fafa42c2cdfdd16b4c4de3
   branch: stable/cinc
   specs:
-    mixlib-install (3.11.21)
+    mixlib-install (3.11.24)
       mixlib-shellout
       mixlib-versioning
       thor
