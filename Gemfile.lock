@@ -1,9 +1,9 @@
 GIT
   remote: https://gitlab.com/cinc-project/mixlib-install.git
-  revision: d0b6b227e31efc0da9fafa42c2cdfdd16b4c4de3
+  revision: bda7e72cd577dd6f1c3630bd8beec49e5558b957
   branch: stable/cinc
   specs:
-    mixlib-install (3.11.24)
+    mixlib-install (3.11.27)
       mixlib-shellout
       mixlib-versioning
       thor
@@ -27,7 +27,7 @@ GEM
     kgio (2.10.0)
     method_source (0.8.2)
     mime-types (1.25.1)
-    mixlib-shellout (3.0.7)
+    mixlib-shellout (3.0.9)
     mixlib-versioning (1.1.0)
     multi_json (1.11.2)
     netrc (0.11.0)
