@@ -13,6 +13,7 @@ gem 'rake'
 gem 'redis'
 gem 'mixlib-versioning', '~> 1.1.0', source: 'https://rubygems.org/'
 gem 'mixlib-install', '>= 3.11.23', source: 'https://packagecloud.io/cinc-project/stable'
+gem 'chef-utils', source: 'https://packagecloud.io/cinc-project/stable/'
 gem 'trashed'
 
 group :test do
